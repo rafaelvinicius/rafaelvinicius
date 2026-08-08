@@ -1,4 +1,4 @@
- Olá! Eu sou o Rafael Silva
+# Olá! Eu sou o Rafael Silva
 
 Sou **Desenvolvedor Front-End com 20 anos de experiência**, especializado em criar interfaces responsivas, com código limpo e boas práticas de desenvolvimento. Trabalho no dia a dia com **React JS** e **React Native**, entregando aplicações web e mobile (iOS e Android) para múltiplos projetos e clientes.
 
